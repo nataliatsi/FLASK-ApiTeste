@@ -1,0 +1,3 @@
+2023-04-17 20:57:13,322 WARNING _internal _log  * Debugger is active!
+2023-04-17 20:57:13,427 INFO _internal _log  * Debugger PIN: 471-942-876
+2023-04-17 20:57:17,039 INFO _internal _log 127.0.0.1 - - [17/Apr/2023 20:57:17] "[33mGET /pessoas HTTP/1.1[0m" 404 -
